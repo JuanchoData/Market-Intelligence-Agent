@@ -1,0 +1,8 @@
+marketenv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.vscode/
+.idea/
+nvda-20260125.html
